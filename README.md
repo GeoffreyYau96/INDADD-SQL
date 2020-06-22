@@ -1,2 +1,6 @@
-# INDADD-SQL
-SQL queries for a scenario. Creation and population of tables with key contraints. For the Introduction to Database and Design unit of my 1st Uni Course.
+# Introduction to Database and Design
+Schlepp-adoo Event Management Three graduates in BSc Event Management have started an event management company to set up walking and racing events and to provide all the logistical support needed. The company’s services are packaged, and contracts are taken out by external clients such as charities who want to raise funds.
+
+SQL is based on this scenario, so I have made tables for clients, and other entities related to the event.
+
+See coursework specifications for more information about the task.
